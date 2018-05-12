@@ -1,0 +1,73 @@
+_repo: Brazilian-Tales_21040
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Goldberg, Isaac
+    birthdate: 1887
+    deathdate: 1938
+    gutenberg_agent_id: '4791'
+    url: http://www.gutenberg.org/2009/agents/4791
+    wikipedia: http://en.wikipedia.org/wiki/Isaac_Goldberg
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Coelho Netto, Henrique
+    aliases:
+    - Coelho Neto, Henrique Maximiano
+    - Netto, Henrique Coelho
+    - Neto, Coelho
+    - Ribas, Anselmo
+    - Neto, Henrique Coelho
+    - Netto, Coelho
+    birthdate: 1864
+    deathdate: &id001 1934
+    gutenberg_agent_id: '9687'
+    url: http://www.gutenberg.org/2009/agents/9687
+    wikipedia: http://pt.wikipedia.org/wiki/Coelho_Neto
+  - agent_name: Machado de Assis
+    aliases:
+    - De Assis, Machado
+    - Assis, Joaquim Maria Machado de
+    - Assis, Machado de
+    birthdate: 1839
+    deathdate: 1908
+    gutenberg_agent_id: '9685'
+    url: http://www.gutenberg.org/2009/agents/9685
+    wikipedia: http://pt.wikipedia.org/wiki/Machado_de_Assis
+  - agent_name: Dolores, Carmen
+    aliases:
+    - Melo, Emília Moncorvo Bandeira de
+    - Mello, Emilia Moncorvo Bandeira de
+    - Mello, Emília Moncorvo Bandeira de
+    - Melo, Emilia Moncorvo Bandeira de
+    birthdate: 1852
+    deathdate: 1910
+    gutenberg_agent_id: '9688'
+    url: http://www.gutenberg.org/2009/agents/9688
+    wikipedia: http://pt.wikipedia.org/wiki/Em%C3%ADlia_Bandeira_de_Melo
+  - agent_name: Albuquerque, Medeiros e
+    aliases:
+    - Albuquerque, José Joaquim de Campos da Costa de Medeiros e
+    - Albuquerque, Jose Joaquim de Campos da Costa de Medeiros e
+    birthdate: 1867
+    deathdate: *id001
+    gutenberg_agent_id: '9686'
+    url: http://www.gutenberg.org/2009/agents/9686
+    wikipedia: http://pt.wikipedia.org/wiki/Medeiros_e_Albuquerque
+description: ''
+gutenberg_issued: '2007-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21040'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories, Brazilian -- Translations into English'
+- !lcsh 'Brazil -- Social life and customs -- Fiction'
+title: Brazilian Tales
+url: http://www.gutenberg.org/ebooks/21040

@@ -22,7 +22,7 @@ creator:
     - Neto, Henrique Coelho
     - Netto, Coelho
     birthdate: 1864
-    deathdate: &id001 1934
+    deathdate: 1934
     gutenberg_agent_id: '9687'
     url: http://www.gutenberg.org/2009/agents/9687
     wikipedia: http://pt.wikipedia.org/wiki/Coelho_Neto
@@ -52,11 +52,13 @@ creator:
     - Albuquerque, José Joaquim de Campos da Costa de Medeiros e
     - Albuquerque, Jose Joaquim de Campos da Costa de Medeiros e
     birthdate: 1867
-    deathdate: *id001
+    deathdate: 1934
     gutenberg_agent_id: '9686'
     url: http://www.gutenberg.org/2009/agents/9686
     wikipedia: http://pt.wikipedia.org/wiki/Medeiros_e_Albuquerque
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21040#Brazilian-Tales
 gutenberg_issued: '2007-04-12'
 gutenberg_type: Text
 identifiers:
